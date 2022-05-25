@@ -10,8 +10,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Amaclone</title>
-	<link rel="stylesheet" type="text/css" href="http://kenwheeler.github.io/slick/slick/slick.css"/>
-	<link rel="stylesheet" type="text/css" href="http://kenwheeler.github.io/slick/slick/slick-theme.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css"/>
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap-3.3.6-dist/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	<link rel="shortcut icon" href="assets/images/fav.png">
@@ -51,7 +51,7 @@
 								</div>
 							</div>
 							<div class="panel-body"></div>
-							<div class="panel-footer"></div>
+							<div class="panel-footer"><center><a class="btn btn-sm btn-info" href="cart.php">View Cart</a></center></div>
 						</div>
 					</div>
 				</li>
